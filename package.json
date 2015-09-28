@@ -1,7 +1,7 @@
 {
-  "name": "atomshell-react-boilerplate",
+  "name": "open-traffic-sim",
   "version": "0.0.1",
-  "description": "Electron(Atom-Shell) app using React.js",
+  "description": "A tool to allow the graphical curation of OTS cases.",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
@@ -10,12 +10,9 @@
     "type": "git",
     "url": "https://github.com/airtoxin/atomshell-react-boilerplate.git"
   },
-  "author": "airtoxin",
+  "author": "vidbina",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/airtoxin/atomshell-react-boilerplate/issues"
-  },
-  "homepage": "https://github.com/airtoxin/atomshell-react-boilerplate",
+  "homepage": "https://opentrafficsim.org",
   "dependencies": {
     "browserify": "^11.0.1",
     "gulp": "^3.9.0",
