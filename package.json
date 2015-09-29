@@ -4,7 +4,8 @@
   "description": "A tool to allow the graphical curation of OTS cases.",
   "main": "index.js",
   "scripts": {
-    "start": "gulp"
+    "start": "gulp",
+    "package": "gulp package"
   },
   "repository": {
     "type": "git",
