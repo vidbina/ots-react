@@ -29,3 +29,7 @@ build/*
 cache/*
 compile/*
 pkg/*
+
+# configs
+.eslintrc
+.jscsrc
