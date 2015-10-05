@@ -10,7 +10,6 @@ gulp.task('test', function() {
       read: false,
     })
   .pipe(mocha({
-    reporter:'nyan',
     compilers: { js: babel },
   }));
 });
